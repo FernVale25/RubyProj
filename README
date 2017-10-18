@@ -11,4 +11,5 @@ ruby_use_case_diagram:
 	particular interactions with the program.
 
 description:
-	This document contains the algorithms and methods we will use for the project.
+	This document contains the algorithms and methods we will use for the project. It goes through how our hangman game will operate as well as the algorithm of the 
+	background thread during the process.
