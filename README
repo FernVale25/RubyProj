@@ -1,0 +1,14 @@
+Files:
+	ruby_flowchart.pdf
+	ruby_use_case_diagram.pdf
+	description.pdf
+
+ruby_flowchart:
+	This file contains the flow chart progression of our program. It starts from the beginning of scanning input and then goes through the decision making logic of the game.
+
+ruby_use_case_diagram:
+	This file contains a high level view of the uses of our program. It gives the main actor and third party actor that our program will interact with as well as their
+	particular interactions with the program.
+
+description:
+	This document contains the algorithms and methods we will use for the project.
